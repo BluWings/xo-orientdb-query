@@ -95,14 +95,13 @@
 
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/BluWings/xo-neo4j-query/issues</url>
+        <url>https://github.com/BluWings/xo-orientdb-query/issues</url>
     </issueManagement>
 
     <scm>
-        <connection>scm:git:git@github.com:BluWings/xo-neo4j-query.git</connection>
-        <url>git@github.com:BluWings/xo-neo4j-query.git</url>
-        <developerConnection>scm:git:git@github.com:BluWings/xo-neo4j-query.git</developerConnection>
+        <connection>scm:git:git@github.com:BluWings/xo-orientdb-query.git</connection>
+        <url>git@github.com:BluWings/xo-orientdb-query.git</url>
+        <developerConnection>scm:git:git@github.com:BluWings/xo-orientdb-query.git</developerConnection>
     </scm>
-
 
 </project>
